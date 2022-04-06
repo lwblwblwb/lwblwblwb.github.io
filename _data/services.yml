@@ -1,0 +1,17 @@
+- menu_name: "Links"
+
+- name: "Contact us"
+  url: "/contact/"
+  title: "Contact"
+
+- name: "Peking University"
+  url: https://www.pku.edu.cn/
+  title: 
+
+- name: "College of Future Technology, Peking University"
+  url: https://future.pku.edu.cn/
+  title: 
+
+- name: "College of Engineering, Peking University"
+  url: https://www.coe.pku.edu.cn/
+  title: 
